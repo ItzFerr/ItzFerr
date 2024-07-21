@@ -19,11 +19,9 @@
     <a href="https://github.com/ItzFerr/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
-    &nbsp;
     <a href="https://discord.com/users/944414389832937523">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
-    &nbsp;
     <a href="https://www.youtube.com/c/FerdyRY">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
