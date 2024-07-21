@@ -4,7 +4,7 @@
 <p align="center">
     I am a student majoring in Computer and Network Engineering at a high school, <br>
     my dream is to become a Programmer and Network Engineer. <br> <br>
-    I'm currently actively designing, developing, testing, maintaining, and building bots on a platform called <strong>[Discord](https://discord.com/)</strong>
+    I'm currently actively designing, developing, testing, maintaining, and building bots on a platform called <strong><a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
