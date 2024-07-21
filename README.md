@@ -2,7 +2,7 @@
     Hello there! I am <strong>ferdysr</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a student majoring in Computer and Network Engineering at a high school, 
+    I am a student majoring in Computer and Network Engineering at a high school, <br>
     my dream is to become a Programmer and Network Engineer.
 <br>
 <br>
