@@ -7,7 +7,7 @@
     I'm currently actively designing, developing, testing, maintaining, and building bots on a platform called <strong><a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
+<a href="https://github.com/ItzFerr/">
         <img src="https://komarev.com/ghpvc/?username=ItzFerr&color=red" />
   </a> 
 <br>
