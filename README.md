@@ -2,7 +2,8 @@
     Hello there! I am <strong>ferdysr</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a student majoring in Computer and Network Engineering at a high school, my dream is to become a Programmer and Network Engineer.
+    I am a student majoring in Computer and Network Engineering at a high school, 
+    my dream is to become a Programmer and Network Engineer.
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
