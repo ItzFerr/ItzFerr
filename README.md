@@ -45,6 +45,6 @@
     <a target="_blank" rel="noreferrer"> <img src="https://discord.js.org/static/logo.svg" alt="discord.js" width="60" height="60"/>
     </a>
     &nbsp;
-    <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aoijs/website/master/assets/images/aoijs-banner.png" alt="nodejs" width="40" height="40"/> 
+    <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aoijs/website/master/assets/images/aoijs-banner.png" alt="nodejs" width="60" height="40"/> 
     </a> 
 </p>
