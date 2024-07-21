@@ -45,7 +45,7 @@
     </a>
     &nbsp;
     &nbsp;
-    <a target="_blank" rel="noreferrer"> <img src="https://discord.js.org/static/logo.svg" alt="discord.js" width="60" height="60"/>
+    <a target="_blank" rel="noreferrer"> <img src="https://discord.js.org/static/logo.svg" alt="discord.js" width="60" height="40"/>
     </a>
     &nbsp;
     &nbsp;
