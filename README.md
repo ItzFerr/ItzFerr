@@ -2,7 +2,7 @@
     Hello there! I am <strong>ferdysr</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a student majoring in Computer and Network Engineering at a high school, my dream is to become a programmer and Network Engineer.
+    I am a student majoring in Computer and Network Engineering at a high school, my dream is to become a Programmer and Network Engineer.
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
@@ -27,8 +27,7 @@
     <a href="https://www.youtube.com/c/FerdyRY">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
-    
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
