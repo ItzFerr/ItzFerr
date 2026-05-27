@@ -59,16 +59,6 @@
 
 <br>
 
-<h3 align="center">📈 GitHub Contributions</h3>
-
-<p align="center">
-    <a href="https://github.com/ItzFerr">
-        <img src="https://ghchart.rshah.org/216e39/ItzFerr" alt="Ferdy's GitHub Contribution Chart" />
-    </a>
-</p>
-
-<br>
-
 <p align="center">
     <a href="https://discord.com/users/944414389832937523">
         <img src="https://lanyard-profile-readme.vercel.app/api/944414389832937523?idleMessage=Ready+to+build+something+cool!&borderRadius=15px&theme=dark" alt="Discord Status" />
