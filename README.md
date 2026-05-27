@@ -33,32 +33,6 @@
 
 <br>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
-    </a> 
-    &nbsp; &nbsp; &nbsp;
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
-    </a>
-    &nbsp; &nbsp; &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
-    </a>
-    &nbsp; &nbsp; &nbsp;
-    <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://discord.js.org/static/logo.svg" alt="discord.js" width="65" height="45"/>
-    </a>
-    &nbsp; &nbsp; &nbsp;
-    <a href="https://aoi.js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/aoijs/website/master/assets/images/aoijs-banner.png" alt="aoi.js" width="110" height="45"/> 
-    </a> 
-</p>
-
-<br>
-
 <p align="center">
     <a href="https://discord.com/users/944414389832937523">
         <img src="https://lanyard-profile-readme.vercel.app/api/944414389832937523?idleMessage=Ready+to+build+something+cool!&borderRadius=15px&theme=dark" alt="Discord Status" />
